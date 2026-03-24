@@ -118,15 +118,5 @@
     "availability": ["Monday", "Wednesday", "Saturday"],
     "consultation_fee": 1500,
     "barColor": "#FD7E14"
-  },
-  {
-    "image": "https://i.ibb.co.com/JwjV5McC/Ms-Kamrunnaher.jpg",
-    "name": "Adv. Nabila Chowdhury",
-    "speciality": "Cyber Law",
-    "experience": 4,
-    "license_number": "BD 12451265",
-    "availability": ["Monday", "Wednesday", "Saturday"],
-    "consultation_fee": 1500,
-    "barColor": "#FD7E14"
   }
 ]
